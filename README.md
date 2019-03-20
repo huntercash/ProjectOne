@@ -22,7 +22,7 @@ Weather impact on the above
 ### Rough Breakdown of Tasks
 
 - Import raw data from NYC Public Data Set of Motor Vehicle Collisions
-- Clean Raw data by Recatgeorizing accidents, removing duplicates, and incomeplete data
+- Clean Raw data by Recatgeorizing accidents, removing duplicates, and incomplete data
 (Required Data, Accident Date, Time, Location)
 - Create API Link to Dark Sky and Feed coordinates and dates into API to return Weather Conditions
 - Append conditions to Data Set
