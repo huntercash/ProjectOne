@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+__pycache__
+api_keys.py
+NYPD_Motor_Vehicle_Collisions.csv
