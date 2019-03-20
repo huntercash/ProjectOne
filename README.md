@@ -3,7 +3,7 @@
 ### Team Members
 
 - [Ibrahim Abdulrahmon](https://github.com/abdulib "GitHub")
-- Chris Hart
+- [Chris Hart](https://github.com/zebuite "Github")
 - [Ugochi Akaluso](https://github.com/ugochi "GitHub")
 - [Hunter Cash](https://github.com/huntercash "GitHub")
 
