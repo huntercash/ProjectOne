@@ -1,5 +1,10 @@
 # NYC Traffic collision vs. Weather Conditions
 
+### Files to Run
+Please Run the Files for the Project located in "master_notebooks"
+There you can find the "cleaning.ipynb", as well as the "analysis.ipynb"
+API Scripts are located in "notebooks/2_Chris-DarkSkyAPICall.ipynb", and "notebooks/2_Ibrahim-DarkSkyAPICall_Part2.ipynb"
+
 ### Team Members
 
 - [Ibrahim Abdulrahmon](https://github.com/abdulib "GitHub")
